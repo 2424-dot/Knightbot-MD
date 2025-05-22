@@ -1,6 +1,6 @@
 const settings = {
   packname: 'Knight Bot',
-  author: '‎',
+  author: '‎',Silver2million 
   botName: "Knight Bot",
   botOwner: 'Professor', // Your name
   ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
@@ -10,4 +10,4 @@ const settings = {
   version: "2.0.0",
 };
 
-module.exports = settings;
+module.exports = settings;.antilink bot on
